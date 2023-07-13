@@ -1,2 +1,4 @@
 But i also like other things
 and this is my changes which i am doing for second commit
+same goes for here for branching
+after switching to branch just make changes and do the same git add git commit it will crete a side branch 
