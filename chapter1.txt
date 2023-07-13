@@ -1,1 +1,3 @@
 heyyy my name is Rishant
+after creating a new branch we can check the branch using git branch and jis par * ye rhega to currently wha rhega control 
+and to change that we say git checkout branch name
